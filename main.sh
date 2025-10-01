@@ -147,7 +147,7 @@ main() {
         display_menu
 
         echo ""
-        read -p "$(echo -e "${YELLOW}Select an option [0-${#ideName[@]}]: ${NC}")" choice
+        read -r -p "$(echo -e "${YELLOW}Select an option [0-${#ideName[@]}]: ${NC}")" choice < /dev/tty
         echo ""
 
         if validate_input "$choice"; then
