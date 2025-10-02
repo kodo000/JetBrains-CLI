@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>JB-CLI - Call JetBrains IDEs from your teerminal on macOS</h3>
+  <h3>JB-CLI - Call JetBrains IDEs from your terminal on macOS</h3>
 </div>
 
 A bash-based script that sets up JetBrains IDEs for terminal usage.
