@@ -16,7 +16,7 @@ A bash-based script that sets up JetBrains IDEs for terminal usage.
 > curl -fsSL "https://raw.githubusercontent.com/kodo000/JetBrains-CLI/master/main.sh" | sudo bash
 > ```
 > 
-> **Note:** If you encounter input issues with the piped method, download and run locally instead:
+> **Note:** If you encounter any issues, download and run locally instead:
 > ```bash
 > curl -fsSL "https://raw.githubusercontent.com/kodo000/JetBrains-CLI/master/main.sh" -o jb-cli.sh
 > sudo bash jb-cli-install.sh
