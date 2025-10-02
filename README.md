@@ -7,7 +7,7 @@ A bash-based script that sets up JetBrains IDEs for terminal usage.
 [![asciicast](https://asciinema.org/a/VUqcxynEWHsresXSDpRvlICQ9.svg)](https://asciinema.org/a/VUqcxynEWHsresXSDpRvlICQ9)
 
 ## Info
-*JB-CLI* is an utility that allows you to open JetBrains' IDEs from your terminal on macOS.
+*JB-CLI* is a utility that sets up JetBrains IDEs for terminal access on macOS with a one-time configuration.
 
 > [!TIP]
 > Run the script remotely.
