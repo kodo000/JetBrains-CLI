@@ -23,9 +23,10 @@ A bash-based script that sets up JetBrains IDEs for terminal usage.
 > ```
 >
 > 🚀 **You're all set!**
-> 
-> 1. **Restart your terminal**
-> 2. **Launch your IDEs from anywhere:**
+>
+> 1. **Select your IDE**
+> 2. **Restart your terminal**
+> 3. **Launch your IDEs from anywhere:**
 >    ```bash
 >    idea .        # Open current directory in IntelliJ IDEA
 >    pycharm .     # Open current directory in PyCharm
