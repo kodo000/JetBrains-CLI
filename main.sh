@@ -155,7 +155,7 @@ main() {
         fi
 
         echo ""
-        read -p "Press Enter to continue..."
+        read -p "Press Enter to continue..." < /dev/tty
         clear
     done
 }
