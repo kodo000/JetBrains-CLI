@@ -1,9 +1,10 @@
 <div align="center">
   <h3>JB-CLI, call JetBrains IDEs from your teerminal on macOS</h3>
 </div>
-<br><br>
 
-[![asciicast](https://asciinema.org/a/VUqcxynEWHsresXSDpRvlICQ9.svg)](https://asciinema.org/a/VUqcxynEWHsresXSDpRvlICQ9)
+A bash-based script that sets up JetBrains IDEs for terminal usage.
+
+[![JB-CLI Demo](https://asciinema.org/a/VUqcxynEWHsrespRvlICQ9.svg?size=small)](https://asciinema.org/a/VUqcxynEWHsresXSDpRvlICQ9)
 
 ## Info
 *JB-CLI* is an utility that allows you to open JetBrains' IDEs from your terminal on macOS.
